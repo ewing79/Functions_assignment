@@ -17,5 +17,13 @@
         var theaterCost = ticketsPer * people + theaterfood;
         return theaterCost
     }
+    console.log(theaterCost);
+
     //Total for Home Movie Night
-    var homeMovie = ((redbox * 2) + pizza)
+    var homeMovie = calculation2
+
+    function calculation2(redbox, pizza){
+        var homeMovietotal = redbox * 2 + pizza
+        return homeMovietotal
+    }
+    console.log(homeMovie)
