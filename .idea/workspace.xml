@@ -11,8 +11,8 @@
     <file path="/industry.html" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372389696222" ignored="false" />
     <file path="/industry.js" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372389638773" ignored="false" />
     <file path="/personal.html" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372389036589" ignored="false" />
-    <file path="/wacky.html" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372390915284" ignored="false" />
-    <file path="/wacky.js" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372390920804" ignored="false" />
+    <file path="/wacky.html" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372391210960" ignored="false" />
+    <file path="/wacky.js" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372391104859" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
       <file leaf-file-name="wacky.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wacky/wacky.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="24" selection-start="54" selection-end="54" vertical-scroll-proportion="-1.875">
+            <state line="6" column="44" selection-start="118" selection-end="118" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wacky/js/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.07978723">
+            <state line="4" column="49" selection-start="195" selection-end="195" vertical-scroll-proportion="0.10638298">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/Personal/personal.html" />
         <option value="$PROJECT_DIR$/Industry/industry.html" />
         <option value="$PROJECT_DIR$/Industry/js/industry.js" />
-        <option value="$PROJECT_DIR$/Wacky/wacky.html" />
         <option value="$PROJECT_DIR$/Wacky/js/wacky.js" />
+        <option value="$PROJECT_DIR$/Wacky/wacky.html" />
       </list>
     </option>
   </component>
@@ -204,7 +204,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24923077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.03897436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -310,14 +310,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wacky/wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="54" selection-end="54" vertical-scroll-proportion="-1.875">
+        <state line="6" column="44" selection-start="118" selection-end="118" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wacky/js/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.07978723">
+        <state line="4" column="49" selection-start="195" selection-end="195" vertical-scroll-proportion="0.10638298">
           <folding />
         </state>
       </provider>
