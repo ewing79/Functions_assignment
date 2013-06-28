@@ -11,6 +11,11 @@
     var pizza = 12
 
     //Total for Theater
-    var theaterTotal = ((ticketsPer * people) + theaterfood );
+    var theaterTotal = calculation
+
+    function calculation(ticketsPer, people, theaterfood){
+        var theaterCost = ticketsPer * people + theaterfood;
+        return theaterCost
+    }
     //Total for Home Movie Night
     var homeMovie = ((redbox * 2) + pizza)
