@@ -17,7 +17,9 @@
         var theaterCost = ticketsPer * people + theaterfood;
         return theaterCost
     }
-    console.log(theaterCost);
+if(theaterCost > money){
+    console.log("Let's go to the Movies");
+}
 
     //Total for Home Movie Night
     var homeMovie = calculation2
