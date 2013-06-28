@@ -8,7 +8,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372383242624" ignored="false" />
     <file path="/industry.html" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372386415968" ignored="false" />
-    <file path="/industry.js" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372386878459" ignored="false" />
+    <file path="/industry.js" changelist="2c91697e-8658-4034-a8a9-4dde86718afa" time="1372386934685" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Industry/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="14" selection-start="131" selection-end="131" vertical-scroll-proportion="0.15957446">
+            <state line="13" column="58" selection-start="318" selection-end="318" vertical-scroll-proportion="0.34574467">
               <folding />
             </state>
           </provider>
@@ -295,7 +295,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="131" selection-end="131" vertical-scroll-proportion="0.15957446">
+        <state line="13" column="58" selection-start="318" selection-end="318" vertical-scroll-proportion="0.34574467">
           <folding />
         </state>
       </provider>
