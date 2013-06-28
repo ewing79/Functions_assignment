@@ -17,7 +17,9 @@
         var theaterCost = ticketsPer * people + theaterfood;
         return theaterCost
     }
+    //if Theater cost more than the money we have then we cannot go to the movies.
 if(theaterCost > money){
+    //If we have more money than theater cost then we can go to the movies
     console.log("Let's go to the Movies");
 }
 
