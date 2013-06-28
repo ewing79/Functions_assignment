@@ -5,6 +5,9 @@
 //it is an extra .50 per minute for any call over 100 miles away. Mars is 228.3 million miles away
 //How much will a 30 minute call to mars cost
 
-var Callcost = calculation(30,.70)
-
-var calculation(callLength, perminute)
+    var Callcost = calculation(30, .70);
+    //Calculation for call
+    function calculation(callLength, perminute){
+    return totalcost = callLength * perminute;
+}
+console.log("It will cost ET " + Callcost + "$ to make a 30 minute phone call");
