@@ -2,7 +2,7 @@
 
 //Freelance - Cost for small business website
 
-var Chargetotal = businessNeeds(50, 50, 70, 60, 50
+var Chargetotal = businessNeeds(50, 50, 70, 60, 50)
 //business needs
 
 function businessNeeds(html5, java, css, video, updates){
