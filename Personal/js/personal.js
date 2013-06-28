@@ -29,6 +29,7 @@ if(theaterCost > money){
     function calculation2(redbox, pizza){
         var homeMovietotal = redbox * 2 + pizza
         return homeMovietotal
+    // If we don't have enough money it will be a movie night
 }else{
     console.log("Lets stay in and order a movie")
 }
