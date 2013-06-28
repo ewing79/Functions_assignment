@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c91697e-8658-4034-a8a9-4dde86718afa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Industry/industry.html" afterPath="$PROJECT_DIR$/Industry/industry.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Industry/js/industry.js" afterPath="$PROJECT_DIR$/Industry/js/industry.js" />
     </list>
     <ignored path="Functions_assignment.iws" />
@@ -33,7 +32,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Industry/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="66" selection-start="377" selection-end="377" vertical-scroll-proportion="0.31914893">
+            <state line="4" column="50" selection-start="144" selection-end="144" vertical-scroll-proportion="0.10638298">
               <folding />
             </state>
           </provider>
@@ -71,8 +70,8 @@
         <option value="$PROJECT_DIR$/Wacky/wacky.html" />
         <option value="$PROJECT_DIR$/Personal/js/personal.js" />
         <option value="$PROJECT_DIR$/Personal/personal.html" />
-        <option value="$PROJECT_DIR$/Industry/js/industry.js" />
         <option value="$PROJECT_DIR$/Industry/industry.html" />
+        <option value="$PROJECT_DIR$/Industry/js/industry.js" />
       </list>
     </option>
   </component>
@@ -315,7 +314,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="66" selection-start="377" selection-end="377" vertical-scroll-proportion="0.31914893">
+        <state line="4" column="50" selection-start="144" selection-end="144" vertical-scroll-proportion="0.10638298">
           <folding />
         </state>
       </provider>
